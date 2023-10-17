@@ -10,7 +10,7 @@ console.log(userSurname, 'type userSurname');
 const userFavoriteColor=prompt("Hello User! what's your favorite color?");
 console.log(userFavoriteColor, 'type userFavoriteColor');
 
-const resultMessage=`you password is:${userName}${userSurname}${userFavoriteColor}21`;
+const resultMessage=`${userName}${userSurname}${userFavoriteColor}21`;
 console.log(resultMessage);
 
 document.getElementById("result").innerHTML = resultMessage;
