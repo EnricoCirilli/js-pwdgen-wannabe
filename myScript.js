@@ -5,6 +5,7 @@ const userName=prompt("Hello User! what's your name?");
 console.log(userName, 'type userName');
 
 const userSurname=prompt("Hello User! what's your Surname?");
-console.log(user.Surname, 'type userSurname');
+console.log(userSurname, 'type userSurname');
 
-
+const userFavoriteColor=prompt("Hello User! what's your favorite color?");
+console.log(userFavoriteColor, 'type userFavoriteColor');
