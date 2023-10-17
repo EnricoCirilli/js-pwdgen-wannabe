@@ -18,7 +18,7 @@
 
 6.console.log(userFavoriteColor, 'type userFavoriteColor');
 
-7.const resultMessage=`you password is:${userName}${userSurname}${userFavoriteColor}21`;
+7.const resultMessage=`${userName}${userSurname}${userFavoriteColor}21`;
 
 8.console.log(resultMessage);
 
