@@ -9,6 +9,13 @@
 4.scrivi sulla pagina nomecognomecolorepreferito21.
 
 #### Logica del Programma
+1.Concatenare nome, cognome, colore e numero 21
+2.Stampare output messaggio
+
+
+
+
+#### Ouput del Messaggio
 1.const userName=prompt("Hello User! what's your Name?");
 
 2.console.log(userName, 'type userName');
@@ -25,10 +32,6 @@
 
 8.console.log(resultMessage);
 
-
-
-
-#### Ouput del Messaggio
 document.getElementById("result").innerHTML = resultMessage;
 
 
